@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+            <item android:id="@+id/nav_home" android:title="Home" android:icon="@drawable/home"/>
+            <item android:id="@+id/dial_up" android:title="Quick Contacts" android:icon="@drawable/quick_contact"/>
+            <item android:id="@+id/Food" android:title="Food Preserv" android:icon="@drawable/food"/>
+            <item android:id="@+id/exit" android:title="Exit" android:icon="@drawable/exit"/>
+        <item android:id="@+id/sign_out" android:title="Sign Out" android:icon="@drawable/sign_out"/>
+    </group>
+    <item android:title="SOS">
+        <menu>
+            <item android:id="@+id/sos_noti" android:title="Urgent Notification" android:icon="@drawable/urgent_notification"/>
+            <item android:id="@+id/call_police" android:title="Call Police" android:icon="@drawable/police"/>
+            <item android:id="@+id/call_ambu"  android:title="Call Ambulance" android:icon="@drawable/local_hospital"/>
+            <item android:id="@+id/fire_place" android:title="Fire Extinguisher" android:icon="@drawable/fireplace_24"/>
+            <item android:id="@+id/women_safty" android:title="Women Helpline" android:icon="@drawable/women_safty"/>
+            <item android:id="@+id/disaster_helpline" android:title="Disaster Helpline" android:icon="@drawable/disaster"/>
+
+        </menu>
+    </item>
+
+</menu>

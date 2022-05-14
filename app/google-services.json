@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "795029074549",
+    "firebase_url": "https://ss-disaster-management-322409-default-rtdb.firebaseio.com",
+    "project_id": "ss-disaster-management-322409",
+    "storage_bucket": "ss-disaster-management-322409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795029074549:android:7b21ac7e23fda83e573e3c",
+        "android_client_info": {
+          "package_name": "com.kripton.ssdisastermanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795029074549-hdu93lli09e28srrpu8nn60vm1pfr36k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kripton.ssdisastermanagement",
+            "certificate_hash": "03385341eed46f84dfc338f7c732944868777266"
+          }
+        },
+        {
+          "client_id": "795029074549-q85rggi3eglke9tj3bvjh7npf28favbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD42K0VZnyoT-Iy54iEbtUR6BJjeGV0TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795029074549-q85rggi3eglke9tj3bvjh7npf28favbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
